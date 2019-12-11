@@ -1,0 +1,6 @@
+thangbach	123	4	0
+oda	321	3	0
+tre	4321	2	0
+ctdl	5555	1	0
+xstk	1233	1	0
+doan	3211	1	0

@@ -1,0 +1,5 @@
+ctdl	2
+mat biec	20000	10	200000
+dragon ball	10000	3	30000
+xstk	1
+mat nai cha cha cha	200000	4	800000
